@@ -1,0 +1,9 @@
+<dpInst>
+    <welcomeTitle>Welcome to Botien Driver Installer!</welcomeTitle>
+    <legacyMode />
+    <deleteBinaries />
+    <forceIfDriverIsNotBetter />
+    <group>
+	<package path=".\Windows 10 x64 MTK USB Drivers.inf" />
+    </group>
+</dpInst>
